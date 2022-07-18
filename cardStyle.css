@@ -216,3 +216,9 @@ background: #6C63FF;
 border-radius: 4px;
 color: #FFFFFF;
 }
+
+#flashcard{
+	margin-top: 0;
+	margin-left: 10%;
+	text-align: center;
+}
